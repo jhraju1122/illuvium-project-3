@@ -18,6 +18,16 @@ body{
     margin-left: 50px;
     margin-top: 150px;
 }
+#playnow-btn{
+    background: linear-gradient(to bottom, #0f0320 11%, #2e065c 74%);
+   color: white;
+   font-weight: 800;
+}
+#account-btn{
+    background-color: #292727;
+    color: white;
+    font-weight: 800;
+}
 footer{
     
     background: linear-gradient(to bottom, #0b0218 11%, #1b0435 74%);
