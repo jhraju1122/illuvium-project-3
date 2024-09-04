@@ -1,0 +1,24 @@
+body{
+      
+    background: linear-gradient(to bottom, #0b0218 11%, #190333 74%);
+}
+#go-to-staking-btn{
+    background: linear-gradient(to bottom, #0f0320 11%, #2e065c 74%);
+
+}
+ 
+#accordion{
+    width: 700px;
+    height: 500px;
+    background-color: #00000059;
+}
+#accordion-card{
+    width: 600px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+footer{
+    
+    background: linear-gradient(to bottom, #0b0218 11%, #1b0435 74%);
+}
